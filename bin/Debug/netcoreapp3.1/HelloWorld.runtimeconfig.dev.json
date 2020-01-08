@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/chacha/.dotnet/store/|arch|/|tfm|",
+      "/home/chacha/.nuget/packages"
+    ]
+  }
+}
